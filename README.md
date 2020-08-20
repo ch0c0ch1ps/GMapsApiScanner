@@ -1,6 +1,6 @@
 # GMapsApiScanner
 
-GmapsAPIScan.py It's a python script froked from https://github.com/ozguralp/gmapsapiscanner that checks for common attacks for leaked/exposed GoogleMapsAPIKEY.
+GmapsAPIScan.py It's a python script forked from https://github.com/ozguralp/gmapsapiscanner that checks for common attacks for leaked/exposed GoogleMapsAPIKEY.
 
 # PoC
 ![a](https://i.imgur.com/BYAUfB7.jpg)
