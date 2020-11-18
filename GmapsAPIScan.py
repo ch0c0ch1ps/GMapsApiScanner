@@ -8,7 +8,7 @@ from colorama import init, Fore, Back, Style
 
 ascii_banner = pyfiglet.figlet_format("GmapsAPIScan")
 print(ascii_banner)
-print(Fore.BLUE + "Original from Ozguralp https://github.com/ozguralp/gmapsapiscanner , Forked by Ch0c0ch1ps")
+print(Fore.BLUE + "Forked by Ch0c0ch1ps")
 print(Fore.WHITE)
 
 vulnerable_apis = []
